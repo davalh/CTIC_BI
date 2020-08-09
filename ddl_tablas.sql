@@ -8,6 +8,6 @@ Create table users
 (
 nombre varchar2(35),
 apellidos varchar(35)
-
+direccion varchar2 (250)
 
 );
